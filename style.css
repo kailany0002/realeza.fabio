@@ -1,0 +1,27 @@
+.Logo{
+    background-color: black;
+}
+.Menu{
+    background-color: rgb(131, 123, 123);
+    display: flex;
+    align-items: center;
+}
+.Lista1{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 23px;
+    margin: 10px;
+    gap: 690px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.principal{
+    margin: 20px;
+}
+.img2{
+    width: 700px;
+}
+.body{
+    background-color: rgb(37, 8, 65);
+}
