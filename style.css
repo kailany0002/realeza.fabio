@@ -2,7 +2,7 @@
     background-color: black;
 }
 .Menu{
-    background-color: rgb(131, 123, 123);
+    background-color: rgb(70, 119, 37);
     display: flex;
     align-items: center;
     border-bottom-left-radius: 25px;
@@ -23,12 +23,18 @@
 }
 .img2{
     width: 700px;
-    margin: 0px;
 }
 .body{
     background-color: rgb(37, 8, 65);
 }
 .img3{
     width: 1933px;
+    cursor: pointer;
+}
+.obra{
     margin: 0px;
+    padding: 0px;
+}
+.obra3{
+   background-color: black;
 }
